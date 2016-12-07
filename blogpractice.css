@@ -1,0 +1,28 @@
+body {
+	font-family: Lora;
+	background-color: #d1e0e0;
+}
+
+.page-header {
+	height: 400px;
+	background-image: url(thepath.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+	
+}
+
+#header {
+	font-size: 60px;
+
+
+}
+
+#header2 {
+	font-size: 40px;
+}
+.col-md-3 {
+	padding-top: 10%;
+}
